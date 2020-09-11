@@ -1,0 +1,1 @@
+INSERT INTO products(name,price) VALUES ("Book", 12), ("Table", 15), ("Laptop", 90), ("Handphone", 76), ("Board", 34);
